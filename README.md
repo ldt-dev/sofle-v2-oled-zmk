@@ -1,4 +1,4 @@
-# Sofle V2 Keyboard Guide
+# Sofle V2 Keyboard Guide!
 This guide is for flashing the Ergomech Sofle V2 Keyboard. The Sofle V2 is 6×4+5 keys column-staggered split keyboard, using Cherry switches.
 
 # ErgoMech Sofle V2 Wireless
